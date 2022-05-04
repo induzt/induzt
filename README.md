@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently focusing on my studies as a fullstack programmer
 - 🌱 I’m currently learning HTML/CSS/Javascript
-- 📫 How to reach me: santossilva.and@gmail.com or https://www.linkedin.com/in/anderson-s-silva/
 - 😄 Pronouns: Ele/dele; He/him; Él
 - ⚡ Fun fact: It's pretty difficult to find a username when your name is really commom 😆
 
