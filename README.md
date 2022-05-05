@@ -1,5 +1,5 @@
 ### Hi there, I'm Anderson "Dan" Silva or also know here as induzt 👋
-
+  ##
 - 🔭 I’m currently focusing on my studies as a fullstack programmer
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 😄 Pronouns: Ele/dele; He/him; Él
