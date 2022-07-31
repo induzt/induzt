@@ -2,7 +2,7 @@
   ##
 
 - 🔭 I’m currently focusing on my studies as a fullstack programmer
-- 🌱 I’m currently learning HTML/CSS/Javascript
+- 🌱 I’m currently learning HTML/CSS/Javascript/Typescript
 - 😄 Pronouns: Ele/dele; He/him; Él
 - ⚡ Fun fact: It's pretty difficult to find a username when your name is really commom 😆
 
@@ -13,6 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="induzt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="induzt-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="induzt-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="induzt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="induzt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
