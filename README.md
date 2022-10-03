@@ -1,10 +1,9 @@
 ### Hi there, I'm Anderson "Dan" Silva or also know here as induzt 👋
   ##
 
-- 🔭 I’m currently focusing on my studies as a fullstack programmer
+- 🔭 I’m currently focusing on my studies as a front-end developer
 - 🌱 I’m currently learning HTML/CSS/Javascript/Typescript
 - 😄 Pronouns: Ele/dele; He/him; Él
-- ⚡ Fun fact: It's pretty difficult to find a username when your name is really commom 😆
 
 <div align="center">
   <a href="https://github.com/induzt">
